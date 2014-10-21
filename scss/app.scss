@@ -40,26 +40,52 @@
 //   "foundation/components/visibility";
 
 //write new styles here
+//general styles
+h1{
+  font-family: 'Courier New', courier;
+}
+h2{
+  font-family: 'Courier New', courier;
+  font-size: 1.2em;
+  color: #d8d9d8;
+}
 
 .topHeader{
   margin-top: 15px;
   border-bottom: 1px solid #ff8a6d;
-  h1{
-  font-family: 'Courier New', courier;
-  }
   img{
     padding-bottom: 15px;
   }
 }
 
 .titleSection{
-text-align: center;	
+  text-align: center;
   .round{
-  	position: relative;
+    position: relative;
     border-radius: 100%;
     border: 5px solid white;
     z-index: 100;
     margin-top: -50px;
     margin-bottom: -50px;
+  }
+}
+
+.recentWork{
+  img{
+    margin-top: 15px;
+  }
+  ul{
+    li{
+      display: inline-block;
+    }
+  }
+  .linksToViews{
+    text-align: center;
+    text-decoration: none;
+    a{color: #ff8a6d;
+    }
+  }
+  .workExample{
+    border-top: 1px solid #ff8a6d;
   }
 }
