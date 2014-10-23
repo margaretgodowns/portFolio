@@ -1,4 +1,6 @@
-# Portfolio 
+
+# Portfolio
+
 
 This is my personal portfolio which was updated October 23, 2014
 
@@ -11,6 +13,7 @@ This is my personal portfolio which was updated October 23, 2014
 
 ## Built Using:
 
- *HTML5
- *CSS3
- *FoundationZurb
+
+ * HTML5
+ * CSS3
+ * FoundationZurb
